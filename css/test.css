@@ -1,0 +1,15 @@
+#red_c {
+	color:red;
+}
+
+.b_blue_c {
+	background-color: blue;
+}
+
+img {
+	border-radius: 0s;
+}
+
+.changed {
+	border-radius: 50%;
+}
