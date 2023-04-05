@@ -1,15 +1,35 @@
-#red_c {
-	color:red;
+body {
+	font-family: Arial;
 }
 
-.b_blue_c {
-	background-color: blue;
+header {
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.container {
+	text-align: center;
+}
+
+h1 {
+	background: #000;
+	color: #fff;
+	margin: 0;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.date {
+	font-size: 300%;
+	font-family: 'Times New Roman', Times, serif';
+}
+
+#timer {
+	font-size: 36px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,.5);
 }
 
 img {
-	border-radius: 0s;
-}
-
-.changed {
-	border-radius: 50%;
+	max-width: 400px;
+	max-height: 300px;
 }
